@@ -10,7 +10,7 @@ add_one(x)
 \item{x}{The number you would like to add one to.}
 }
 \description{
-This function allows you to add 2 to a number.
+This function allows you to add 1 to a number.
 }
 \examples{
 add_one(x = 14.1)
