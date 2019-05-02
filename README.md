@@ -50,7 +50,7 @@ it is straight forward greatly simplifies the process.
 ```r
 #' A function which adds 1 to a number
 #'
-#' This function allows you to add 2 to a number.
+#' This function allows you to add 1 to a number.
 #' @param x The number you would like to add one to.
 #' @keywords adding
 #' @export
