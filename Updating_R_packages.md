@@ -9,14 +9,19 @@
 
 ## Configure Build Tools
 
-1. Go to Build > Configure Build Tools and select "Generate documentation with Roygen"
-2. Click "Configure" and ensure "Build and Reload" is selected
+4. Go to Build > Configure Build Tools and select "Generate documentation with Roygen"
+5. Click "Configure" and ensure "Build and Reload" is selected
 
 ## Make changes to a function
 
-4. Ctrl + O to open file add_one.R
-5. Edit the file and Ctrl + S to save.
-6. Ctrl + Shift + B to Install and Restart
-7. Check ?add_one
+6. Ctrl + O to open file add_one.R
+7. Edit the file and Ctrl + S to save.
 
+## Install and restart
 
+8. Ctrl + Shift + B to Install and Restart
+
+## Test and inspect changes
+
+10. Ctrl + Shift + T to test function
+11. ?add_one
