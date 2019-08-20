@@ -2,11 +2,11 @@
 # Updating R packages via R studio
 
 Upon introducing changes to a package, the package documentation needs to be updated, the package needs to be re-build, re-installed, and re-loaded, in order to make it available for immediate use. One can do this either via Rstudio built-in shortcuts, or via the command line.\
-If you want to use Rstudio's convenient shortcuts, you will need to create a Rstudio project for the package first, then configure the build tools, and finally re-install the updated package. \
+If you want to use Rstudio's convenient shortcuts, you will need to create a Rstudio project for the package first, then configure the build tools, and finally re-install the updated package.
 
 
 ## Create a new project
-If you already have an RStudio project for you package, skip to section "Configure Build Tools". If you want to add an Rstudio project to an existing package, then follow these steps:\
+If you already have an RStudio project for you package, skip to section "Configure Build Tools". If you want to add an Rstudio project to an existing package, then follow these steps:
 
 1. In a Rstudio session, go to File > New Project and select "Existing Directory"
 2. Browse to your package's root directory, e.g. ~/CTUmethodsR
