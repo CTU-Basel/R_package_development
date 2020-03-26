@@ -4,6 +4,10 @@ R package development from scratch in ~10 minutes. The following is an applied w
 A comprehensive description is available in this book:  
 https://r-pkgs.org/
 
+A github template for a new R package with development guidelines and continuous integration (CI)  
+already set up can be found here:  
+https://github.com/CTU-Basel/pkgTemplateR
+
 # Dependencies
 Lets get everything installed so this does not create speed bumps later on.
 ``` r
